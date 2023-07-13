@@ -1,0 +1,17 @@
+com.example.hyll_app_task.app-jetified-window-1.0.0-beta04-0 /Users/tanbits/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.hyll_app_task.app-core-1.7.0-1 /Users/tanbits/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/res
+com.example.hyll_app_task.app-jetified-annotation-experimental-1.1.0-2 /Users/tanbits/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.hyll_app_task.app-lifecycle-runtime-2.3.1-3 /Users/tanbits/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res
+com.example.hyll_app_task.app-jetified-window-java-1.0.0-beta04-4 /Users/tanbits/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.hyll_app_task.app-jetified-exoplayer-core-2.18.7-5 /Users/tanbits/.gradle/caches/transforms-3/e255c6ce9910a673f2619b479a7d74a8/transformed/jetified-exoplayer-core-2.18.7/res
+com.example.hyll_app_task.app-debug-6 /Users/tanbits/AndroidStudioProjects/hyll_app_task/android/app/src/debug/res
+com.example.hyll_app_task.app-main-7 /Users/tanbits/AndroidStudioProjects/hyll_app_task/android/app/src/main/res
+com.example.hyll_app_task.app-pngs-8 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/app/generated/res/pngs/debug
+com.example.hyll_app_task.app-resValues-9 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/app/generated/res/resValues/debug
+com.example.hyll_app_task.app-rs-10 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/app/generated/res/rs/debug
+com.example.hyll_app_task.app-mergeDebugResources-11 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.hyll_app_task.app-mergeDebugResources-12 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.hyll_app_task.app-merged_res-13 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/app/intermediates/merged_res/debug
+com.example.hyll_app_task.app-packaged_res-14 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/path_provider_android/intermediates/packaged_res/debug
+com.example.hyll_app_task.app-packaged_res-15 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/sqflite/intermediates/packaged_res/debug
+com.example.hyll_app_task.app-packaged_res-16 /Users/tanbits/AndroidStudioProjects/hyll_app_task/build/video_player_android/intermediates/packaged_res/debug
